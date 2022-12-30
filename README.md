@@ -11,4 +11,4 @@ My name is Wesley Ferreira, I'm from Brazil 🇧🇷 and I study web development
 ##### I need to delve into &nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 ###  My personal page
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wesley.ramox/)](https://www.instagram.com/wesley.ramox/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wesley.ramox/)](https://www.instagram.com/wesleyramox/)
