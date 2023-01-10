@@ -10,7 +10,9 @@ My name is Wesley Ferreira, I'm from Brazil 🇧🇷 and I study web development
 #### 🛠 Exploring new technologies.
 ##### I need to delve into &nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleydevop)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleydevop&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleydevop&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ###  My personal page
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wesley.ramox/)](https://www.instagram.com/wesleyramox/)
