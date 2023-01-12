@@ -8,7 +8,7 @@ My name is Wesley Ferreira, I'm from Brazil 🇧🇷 and I study web development
 - 🔧&nbsp; [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=blue)](https://code.visualstudio.com)
 
 #### 🛠 Exploring new technologies.
-##### I need to delve into &nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) &nbsp;![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ###  My personal page
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wesley.ramox/)](https://www.instagram.com/wesleyramox/)
