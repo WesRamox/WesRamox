@@ -1,6 +1,6 @@
 ## Welcome to my Github
 
-My name is Wesley Ramos, I'm from Brazil 🇧🇷 and I study web development. I'm always looking to learn new technologies 👨‍💻
+My name is Wesley Ferreira Ramos, I'm from Brazil 🇧🇷 and I study web development. I'm always looking to learn new technologies 👨‍💻
 
 #### 🍀 "Nem todos que tentaram conseguiram, mas todos que conseguiram tentaram" 🧙
 
