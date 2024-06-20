@@ -18,5 +18,7 @@ My name is Wesley Ferreira Ramos, I'm from Brazil 🇧🇷 and I study web devel
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wesramox&theme=react-dark)](https://github.com/wesramox/github-readme-activity-graph)
 
 ###  My personal page
+
+<a href="https://wesleyramos.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyramox/)
 
