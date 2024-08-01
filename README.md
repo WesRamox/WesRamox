@@ -2,6 +2,8 @@
 
 My name is Wesley Ferreira Ramos, I'm from Brazil 🇧🇷 and I study web development. I'm always looking to learn new technologies 👨‍💻
 
+#### 💼 Front End Developer at Yaslip
+
 #### 🍀 "Nem todos que tentaram conseguiram, mas todos que conseguiram tentaram" 🧙
 
 [![wakatime](https://wakatime.com/badge/user/82c9926f-662e-47cc-8bde-8266060657db.svg)](https://wakatime.com/@82c9926f-662e-47cc-8bde-8266060657db)
