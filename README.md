@@ -17,8 +17,6 @@ My name is Wesley Ferreira Ramos, I'm from Brazil 🇧🇷 and I study web devel
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wesramox&theme=react-dark)](https://github.com/wesramox/github-readme-activity-graph)
-
 ###  My personal page
 
 <a href="https://wesleyramos.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
