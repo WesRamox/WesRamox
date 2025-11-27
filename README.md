@@ -1,6 +1,7 @@
 ## Welcome to my Github
 
-My name is Wesley Ferreira Ramos, I'm from Brazil 🇧🇷 and I study web development. I'm always looking to learn new technologies 👨‍💻
+Hey! I'm Wesley Ferreira Ramos, a Front-End Technical Coordinator based in Brazil 🇧🇷.
+I work on creating fast, accessible and well-architected web experiences, and I'm constantly exploring new tools and technologies to elevate my craft. 👨‍💻
 
 #### 💼 Front End Developer at Yaslip
 
