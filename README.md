@@ -3,6 +3,9 @@
 Hey! I'm Wesley Ferreira Ramos, a Front-End Technical Coordinator based in Brazil 🇧🇷.
 I work on creating fast, accessible and well-architected web experiences, and I'm constantly exploring new tools and technologies to elevate my craft. 👨‍💻
 
+Olá! Sou Wesley Ferreira Ramos, Coordenador Técnico Front-End no Brasil 🇧🇷.
+Trabalho na criação de experiências web rápidas, acessíveis e bem arquitetadas, e estou sempre explorando novas ferramentas e tecnologias para aprimorar meu trabalho.
+
 #### 💼 Front-End Technical Coordinator at Yaslip
 
 #### 🍀 "Nem todos que tentaram conseguiram, mas todos que conseguiram tentaram" 🧙
