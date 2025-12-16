@@ -1,4 +1,4 @@
-## Welcome to my Github
+## Welcome to my Profile
 
 Hey! I'm Wesley Ferreira Ramos, a Front-End Technical Coordinator based in Brazil 🇧🇷.
 I work on creating fast, accessible and well-architected web experiences, and I'm constantly exploring new tools and technologies to elevate my craft. 👨‍💻
