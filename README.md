@@ -69,3 +69,6 @@ I'm constantly exploring new tools and technologies to elevate my craft. 👨‍
 <a href="https://www.linkedin.com/in/wesleyramox/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=wesramox&theme=radical)
+
