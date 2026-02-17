@@ -5,8 +5,6 @@ Hey! I'm Wesley Ferreira Ramos, a Full Stack Developer and Front-End Technical C
 I build fast, accessible and scalable web applications, working across the front-end and back-end with a strong focus on performance, architecture and clean code.  
 I'm constantly exploring new tools and technologies to elevate my craft. 👨‍💻
 
-#### 💼 Front-End Technical Coordinator at Yaslip
-
 > 🍀 "Not everyone who tried succeeded, but everyone who succeeded tried." 🧙
 
 [![wakatime](https://wakatime.com/badge/user/82c9926f-662e-47cc-8bde-8266060657db.svg)](https://wakatime.com/@82c9926f-662e-47cc-8bde-8266060657db)
