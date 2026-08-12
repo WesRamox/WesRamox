@@ -7,7 +7,7 @@ I'm constantly exploring new tools and technologies to elevate my craft. 👨‍
 
 > 🍀 "Not everyone who tried succeeded, but everyone who succeeded tried." 🧙
 
-[![wakatime](https://wakatime.com/badge/user/82c9926f-662e-47cc-8bde-8266060657db.svg)](https://wakatime.com/@82c9926f-662e-47cc-8bde-8266060657db)
+[![wakatime](https://wakatime.com/badge/user/82c9926f-662e-47cc-8bde-8266060657db.svg)](https://wakatime.com/@82c9926f-662e-47cc-8bde-8266060657db) ![](https://komarev.com/ghpvc/?username=wesramox&color=dc143c)
 
 ---
 
